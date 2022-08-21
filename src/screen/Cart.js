@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const Home = () => {
+const Cart = () => {
   return (
     <View>
-      <Text>This is Home screen</Text>
+      <Text>Cart</Text>
     </View>
   );
 };
 
-export default Home;
+export default Cart;
 
 const styles = StyleSheet.create({});
